@@ -1,5 +1,7 @@
 ### Hi there, I'm Derek. :golf:
 
+Go checkout my [website](https://derekbrown.io)!
+
 | Repository                                                                      | Description                                                               |
 | -                                                                               | -                                                                         |
 | [aws-study-notes](https://github.com/derekmbrown/aws-study-notes)               | Some notes, thoughts, and material I used to pass AWS certification exams |
