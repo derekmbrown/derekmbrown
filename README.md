@@ -1,6 +1,6 @@
 ### Hi there, I'm Derek. :golf:
 
-Go checkout my [website](https://derekbrown.io)!
+My website: [derekbrown.io](https://derekbrown.io)
 
 | Repository                                                                      | Description                                                               |
 | -                                                                               | -                                                                         |
