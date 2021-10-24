@@ -2,6 +2,8 @@
 
 My website: [derekbrown.io](https://derekbrown.io)
 
+### My Public Repositories
+
 | Repository                                                                          | Description                                                               |
 | -                                                                                   | -                                                                         |
 | [aws-study-notes](https://github.com/derekmbrown/aws-study-notes)                   | Some notes, thoughts, and material I used to pass AWS certification exams |
