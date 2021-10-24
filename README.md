@@ -8,4 +8,4 @@ My website: [derekbrown.io](https://derekbrown.io)
 | [derekmbrown](https://github.com/derekmbrown/derekmbrown)                           | This GitHub Profile README                                                |
 | [derekbrown-io](https://github.com/derekmbrown/derekbrown-io)                       | My personal website                                                       |
 | [docker-compose-python](https://github.com/derekmbrown/docker-compose-python)       | Quickly test Python scripts and packages                                  |
-| [multi-stage-build-apache](https://github.com/derekmbrown/multi-stage-build-apache) | A basic multi-stage docker build with Composer and PHP/Apache             |
+| [multi-stage-build-apache](https://github.com/derekmbrown/multi-stage-build-apache) | Basic multi-stage docker build with Composer and PHP/Apache               |
