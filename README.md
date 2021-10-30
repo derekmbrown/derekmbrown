@@ -2,7 +2,7 @@
 
 My website: [derekbrown.io](https://derekbrown.io)
 
-### my Public Repositories:
+### My Public Repositories:
 
 | Repository                                                                                | Description                                                               |
 | -                                                                                         | -                                                                         |
