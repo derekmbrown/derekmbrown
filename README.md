@@ -1,6 +1,8 @@
+Hello, I'm Derek. 👋
+
 My website: [https://derekbrown.io](https://derekbrown.io)
 
-My Public Repositories:
+My repositories:
 
 | Repository | Description |
 | - | - |
