@@ -8,7 +8,7 @@ My repositories:
 | - | - |
 | [derekmbrown](https://github.com/derekmbrown/derekmbrown) | This GitHub Profile README |
 | [derekbrown.io](https://github.com/derekmbrown/derekbrown.io) | My personal website |
-| [tf-webhook-listener](https://github.com/derekmbrown/tf-webhook-listener) | A sample webhook listener setup in AWS |
+| [tf-webhook-listener](https://github.com/derekmbrown/tf-webhook-listener) | A simple webhook listener setup in AWS |
 | [docker-compose-python](https://github.com/derekmbrown/docker-compose-python) | Quickly test python scripts and packages |
 | [docker-compose-node](https://github.com/derekmbrown/docker-compose-node) | Quickly test node scripts and packages |
 | [docker-multi-stage-build-demo](https://github.com/derekmbrown/multi-stage-build-apache) | Demo a basic docker multi-stage build |
