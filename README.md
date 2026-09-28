@@ -8,4 +8,4 @@ My repositories:
 | - | - |
 | [derekmbrown](https://github.com/derekmbrown/derekmbrown) | This GitHub Profile README |
 | [derekbrown.io](https://github.com/derekmbrown/derekbrown.io) | 👨🏻‍💻 My personal website powered by Astro, Tailwind CSS and S3 🚀💨🪣 |
-| [dotfiles](https://github.com/derekmbrown/dotfiles) | My configuration files |
+| [dotfiles](https://github.com/derekmbrown/dotfiles) | My configuration files ⚙️ |
